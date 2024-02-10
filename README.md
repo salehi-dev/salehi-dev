@@ -1,14 +1,72 @@
-### Hi there 👋
+<img align='right' width=130 height=35 src='https://visitor-badge.laobi.icu/badge?page_id=salehi-dev.visitor-badge' />
 
-**salehi-dev/salehi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'> 
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=3500&pause=150&color=5CF715&center=true&random=true&width=440&height=60&separator=%3C&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB%3CI'm+Aref+Salehi;" alt="Typing SVG" 
+        />
+    </a>
+</h1>
 
-Here are some ideas to get you started:
+<!-- about and link -->
+<div align='center'>
+    <p>
+        I'm passionate about programming, software development📱, and solving problems using new technologies💡.
+    </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align='center'>
+  <a href="mailto:m.arf.salehi@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-aref-salehi-917b2425a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+
+<!-- languages -->
+<h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,bootstrap,mui" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<hr/>
+<div align="center">
+    <h1>🐍  My Contributions  🐍</h1>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg?username=salehi-dev"
+    />
+    <br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡️  Stats  ⚡️</h2>
+<br/>
+
+<div align="center">
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=salehi-dev&show_icons=true&theme=radical&bg_color=1A237E&text_color=E0E0E0&border_radius=10&icon_color=76FF03&title_color=E91E63&border_color=64DD17&rank_icon=github"/>
+    <br/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehi-dev&layout=donut&theme=dracula&border_radius=10"/>
+    <br/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align='center'> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=25&duration=2500&pause=150&color=5CF715&center=true&random=true&width=500&height=70&separator=%3C&lines=Thanks+for+visiting!%F0%9F%AB%B0%F0%9F%8F%BB;%3CShoot+me+a+message+on+Linkedin!+;%3CI'm+always+down+to+collab+%3A)" alt="Typing SVG" /></a>
+</h3>
+
+<br/>
