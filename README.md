@@ -7,12 +7,17 @@
     </a>
 </h1>
 
+<br/>
+
 <!-- about and link -->
 <div align='center'>
     <p>
         I'm passionate about programming, software development📱, and solving problems using new technologies💡.
     </p>
 </div>
+
+<br/>
+<br/>
 
 <div align='center'>
   <a href="mailto:m.arf.salehi@gmail.com">
@@ -23,7 +28,10 @@
   </a>
 </div>
 
-<hr/>
+<div  align="center">
+    <hr width=400/> 
+</div>
+
 
 <!-- languages -->
 <h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
@@ -41,21 +49,19 @@
 <br/>
 <br/>
 
-<hr/>
-<div align="center">
-    <h1>🐍  My Contributions  🐍</h1>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg?username=salehi-dev"
-    />
-    <br/>
+<div  align="center">
+    <hr width=300/> 
 </div>
 
-<hr/>
 
 <h2 align="center">⚡️  Stats  ⚡️</h2>
 <br/>
 
+
+
 <div align="center">
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=salehi-dev&show_icons=true&theme=radical&bg_color=1A237E&text_color=E0E0E0&border_radius=10&icon_color=76FF03&title_color=E91E63&border_color=64DD17&rank_icon=github"/>
+    <br/>
     <br/>
     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehi-dev&layout=donut&theme=dracula&border_radius=10"/>
     <br/>
