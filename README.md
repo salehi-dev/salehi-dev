@@ -34,7 +34,7 @@
 
 
 <!-- languages -->
-<h2 align="center">⚒️ Languages-Libraries-Tools ⚒️</h2>
+<h2 align="center"> Languages-Libraries-Tools  </h2>
 
 <br/>
 
@@ -54,7 +54,7 @@
 </div>
 
 
-<h2 align="center">⚡️  Stats  ⚡️</h2>
+<h2 align="center">⚡️    Stats    ⚡️</h2>
 <br/>
 
 
