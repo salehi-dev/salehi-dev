@@ -70,14 +70,11 @@
 <h3 align='center'> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=25&duration=2500&pause=150&color=5CF715&center=true&random=true&width=500&height=70&separator=%3C&lines=Thanks+for+visiting!%F0%9F%AB%B0%F0%9F%8F%BB;%3CShoot+me+a+message+on+Linkedin!+;%3CI'm+always+down+to+collab+%3A)" alt="Typing SVG" /></a>
 </h3>
-
-<br/><br/>
-
 <div align='center'>
-    <img height=150 width=200 src='./gifs/typing.gif' />
-    <img height=150 width=200 src='./gifs/gif2.gif' />
-    <img height=150 width=200 src='./gifs/gif3.gif' />
+    <img height=100 width=200 src='./gifs/typing.gif' />
+    <img height=100 width=150 src='./gifs/gif2.gif' />
+    <img height=100 width=130 src='./gifs/gif3.gif' />
 </div>
 <img height=140 width='100%' src='./gifs/footer.svg'/>
-
+<br/>
 <br/>
