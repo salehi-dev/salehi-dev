@@ -39,9 +39,9 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,bootstrap,mui" />
+    <img src="https://skillicons.dev/icons?i=git,react,github,figma,firebase,vscode,bootstrap,mui" />
   </a>
 </div>
 
