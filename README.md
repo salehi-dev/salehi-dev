@@ -15,7 +15,9 @@
         I'm passionate about programming, software development📱, and solving problems using new technologies💡.
     </p>
     
-```WPM install Intelligence-Energy-Enthusiasm```
+```
+WPM install Intelligence-Energy-Enthusiasm
+```
 </div>
 
 
