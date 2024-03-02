@@ -61,10 +61,8 @@ WPM install Intelligence-Energy-Enthusiasm
 <br/>
 
 <div align="center">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=salehi-dev&show_icons=true&theme=radical&bg_color=1A237E&text_color=E0E0E0&border_radius=10&icon_color=76FF03&title_color=E91E63&border_color=64DD17&rank_icon=github"/>
-    <br/>
-    <br/>
     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehi-dev&layout=donut&theme=dracula&border_radius=10"/>
+    -<img width=390 src="https://github-readme-stats.vercel.app/api?username=salehi-dev&show_icons=true&theme=radical&bg_color=1A237E&text_color=E0E0E0&border_radius=10&icon_color=76FF03&title_color=E91E63&border_color=64DD17&rank_icon=github"/>
     <br/>
 </div>
 
