@@ -15,7 +15,9 @@
     </p>
     
 ```
+
 WPM install Intelligence-Energy-Enthusiasm
+
 ```
 </div>
 
