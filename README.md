@@ -1,5 +1,4 @@
 <img align='right' width=130 height=35 src='https://visitor-badge.laobi.icu/badge?page_id=salehi-dev.visitor-badge' />
-
 <h1 align='center'> 
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=3500&pause=150&color=5CF715&center=true&random=true&width=440&height=60&separator=%3C&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB%3CI'm+Aref+Salehi;" alt="Typing SVG" 
