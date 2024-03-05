@@ -23,7 +23,6 @@ WPM install Intelligence-Energy-Enthusiasm
 
 
 <br/>
-<br/>
 
 <div align='center'>
   <a href="mailto:m.arf.salehi@gmail.com">
