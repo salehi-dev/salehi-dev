@@ -15,7 +15,7 @@
     </p>
     
 ```
-WPM install Intelligence-Energy-Enthusiasm
+    WPM install Intelligence-Energy-Enthusiasm
 ```
 </div>
 
